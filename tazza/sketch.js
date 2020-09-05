@@ -25,7 +25,7 @@ const manico = new Zdog.Shape({
       color: '#ffccff'
 });
 
-//Il cropo della tazza è un Cilindro
+//Il corpo della tazza è un Cilindro
 const cilindro = new Zdog.Cylinder({
     addTo: tazza,
     diameter: 80,
